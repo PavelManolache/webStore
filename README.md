@@ -1,3 +1,5 @@
+![alt text](home.png)![alt text](addmovie.png)
+
 # webStore
 
 This template should help get you started developing with Vue 3 in Vite.

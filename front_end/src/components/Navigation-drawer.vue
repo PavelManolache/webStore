@@ -52,7 +52,7 @@ export default {
       menuItems: [
         { title: "Home", icon: "mdi-home-city", to: "/" },
         { title: "Contacts", icon: "mdi-account", to: "/contact" },
-        { title: "Add Movie", icon: "mdi-account", to: "/addmovie" },
+        { title: "Add Movie", icon: "mdi-plus", to: "/addmovie" },
       ],
     };
   },
