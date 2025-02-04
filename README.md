@@ -1,5 +1,9 @@
 ![alt text](home.png)![alt text](addmovie.png)
 
+# Description
+
+This will be a web movie rating app , where people may create an account and create a list of movies they like with a rating. Users will also be able to shre beteewn themselves their list.
+
 # webStore
 
 This template should help get you started developing with Vue 3 in Vite.
