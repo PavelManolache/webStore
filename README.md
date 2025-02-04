@@ -18,7 +18,7 @@ At the moment there is only a bare minimum of front-end ,
 go to front-end with:
 
 ```sh
-cd front-end
+cd front_end
 ```
 
 and follow the next step
