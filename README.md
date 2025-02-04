@@ -14,7 +14,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
-At the moment only there is a bare minimu of front-end
+At the moment there is only a bare minimum of front-end
 Go to front-end with:
 
 ```sh
