@@ -2,7 +2,7 @@
 
 # Description
 
-This will be a web movie rating app , where people may create an account and create a list of movies they like with a rating. Users will also be able to shre beteewn themselves their list.
+This will be a web movie rating app , where people may create an account and create a list of movies they like with a rating. Users will also be able to share between themselves their list.
 
 # webStore
 
