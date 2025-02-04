@@ -1,16 +1,22 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/HelloWorld.vue";
+
+import Appbar from "./components/Appbar.vue";
+import NavigationDrawer from "./components/Navigation-drawer.vue";
+import Main from "./components/Main.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
   <v-app>
-    <v-navigation-drawer>
-      <v-list-item title="My Application" subtitle="Vuetify"></v-list-item>
-      <v-divider></v-divider>
-      <v-list-item link title="List Item 1"></v-list-item>
-      <v-list-item link title="List Item 2"></v-list-item>
-      <v-list-item link title="List Item 3"></v-list-item>
-    </v-navigation-drawer>
+    <v-layout class="rounded rounded-md"
+      ><NavigationDrawer></NavigationDrawer>
+      <v-layout>
+        <Appbar></Appbar>
+
+        <Main> </Main>
+      </v-layout>
+    </v-layout>
+    <Footer></Footer>
   </v-app>
 </template>
