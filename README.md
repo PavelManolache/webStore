@@ -1,8 +1,14 @@
-![alt text](home.png)![alt text](addmovie.png)
+![alt text](home.png)![alt text](addmovie.png)![alt text](Movies.png)
 
 # Description
 
-This will be a web movie rating app , where people may create an account and create a list of movies they like with a rating. Users will also be able to share between themselves their list.
+- \*\* Ver. 0.0.0
+  This will be a web movie rating app , where people may create an account and create a list of movies they like with a rating. Users will also be able to share between themselves their list.
+
+- \*\*Ver 0.1.0
+- \*\* A back end was added with a get end point and post end point.
+- \*\* Now you can add movies.
+- \*\* On the home tab you can view your added movies.
 
 # webStore
 

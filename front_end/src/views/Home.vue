@@ -1,3 +1,7 @@
+<script setup>
+import MovieList from "@/components/MovieList.vue";
+</script>
+
 <template>
-  <v-layout> this is home </v-layout>
+  <MovieList></MovieList>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar :order="order" color="grey-lighten-2" title="Application bar" flat>
+  <v-app-bar :order="order" color="grey-lighten-2" title="Movies" flat>
   </v-app-bar>
 </template>
 <script>
